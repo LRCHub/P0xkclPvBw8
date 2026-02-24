@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Loco Por Perrearte (Remix)",
+  "base_artist": "De La Ghetto & Rauw Alejandro",
+  "createdAt": "2026-02-24T13:56:55.712064Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loco Por Perrearte (Remix)",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/01_Loco_Por_Perrearte_(Remix)_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Loco Por Perrearte (Remix)",
+      "artist": "De La Ghetto • Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/02_Loco_Por_Perrearte_(Remix)_De_La_Ghetto_•_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loco Por Perrearte (Remix)",
+      "artist": "De La Ghetto",
+      "has_synced": true,
+      "path": "select/03_Loco_Por_Perrearte_(Remix)_De_La_Ghetto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loco Por Perrearte - Remix",
+      "artist": "De La Ghetto/Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/04_Loco_Por_Perrearte_-_Remix_De_La_Ghetto_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loco Por Perrearte (Remix) [feat De La Guetto]",
+      "artist": "Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/05_Loco_Por_Perrearte_(Remix)_[feat_De_La_Guetto]_Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Loco Por Perrearte - Remix",
+      "artist": "De La Ghetto feat. Rauw Alejandro",
+      "has_synced": true,
+      "path": "select/06_Loco_Por_Perrearte_-_Remix_De_La_Ghetto_feat._Rauw_Alejandro.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loco Por Perrearte (Remix)",
+      "artist": "De La Ghetto & Rauw Alejandro",
+      "has_synced": false,
+      "path": "select/pl_01_Loco_Por_Perrearte_(Remix)_De_La_Ghetto_&_Rauw_Alejandro.txt"
+    }
+  ]
+}
